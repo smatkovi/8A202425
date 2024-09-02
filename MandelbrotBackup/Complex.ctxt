@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Complex
+comment0.text=\n\ Write\ a\ description\ of\ class\ Complex\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=real\ imaginary
+comment1.target=Complex(double,\ double)
+comment2.params=
+comment2.target=double\ getReal()
+comment3.params=
+comment3.target=double\ getImaginary()
+comment4.params=other
+comment4.target=Complex\ add(Complex)
+comment5.params=other
+comment5.target=Complex\ multiply(Complex)
+comment6.params=
+comment6.target=double\ magnitude()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FactorialComparison
+comment0.text=\n\ Write\ a\ description\ of\ class\ FactorialComparison\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=num
+comment1.target=long\ multiplyNumbers(int)
+comment2.params=num
+comment2.target=long\ multiplyNumbersLooped(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

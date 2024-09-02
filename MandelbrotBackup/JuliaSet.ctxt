@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=JuliaSet
+comment1.params=c
+comment1.target=JuliaSet(Complex)
+comment2.params=z\ iter
+comment2.target=int\ julia(Complex,\ int)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
