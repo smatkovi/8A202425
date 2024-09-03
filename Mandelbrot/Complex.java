@@ -33,8 +33,8 @@ public class Complex
 
     public Complex multiply(Complex other)
       {
-        double realPart = this.real * other.real - this.imaginary * other.imaginary;
-        double imaginaryPart = this.real * other.imaginary + this.imaginary * other.real;
+        double realPart = ;
+        double imaginaryPart = ;
         return new Complex(realPart, imaginaryPart);
       }
 
